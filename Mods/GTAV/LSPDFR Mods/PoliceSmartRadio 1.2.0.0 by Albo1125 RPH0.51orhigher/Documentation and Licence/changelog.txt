@@ -1,0 +1,33 @@
+1.2.0.0
+Updated for LSPDFR 0.4
+Some code cleanup.
+Open sourced at https://github.com/Albo1125/PoliceSmartRadio
+Updated licence.
+Removed obfuscation.
+Updated documentation.
+
+1.1.2.0
+Updated for Albo1125.Common 6.6.0.0
+Improved performance by changing all native function calls.
+Updated for GTA5 1.0.1290.1 & RPH 0.61. Works with RPH 0.51 or higher.
+Cleaned up various code.
+
+1.1.1.1
+albo1125.common 6.5.1.0
+Fixed a crash when platechecking trailers.
+
+1.1.1.0
+gta 1.0.1103.2
+albo1125.common 6.5.0.0
+
+1.1.0.0
+
+RPH 52. Works with RPH 51 or higher.
+GTAV 1.0.1011-1.0.1032.1.
+Added support for VocalDispatch 1.6.0.0.
+Added sound duration option to config/PanicButton.ini to further support custom panic button sounds not overlapping.
+Reduced the default number of panic button units.
+Fixed a bug where too many swat units were being called in the panic button logic.
+(Hopefully) fixed a bug where the plate checker crashed when called on a trailer (please let me know if you have more issues).
+Ensured setting 'AlwaysDisplayButtons=true' in GeneralConfig.ini reduces some extra CPU load for low specced PCs.
+You only need to update PoliceSmartRadio.dll and Config/PanicButton.ini if updating from 1.0.0.0.

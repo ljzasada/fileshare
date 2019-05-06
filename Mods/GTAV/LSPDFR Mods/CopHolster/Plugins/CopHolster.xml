@@ -1,0 +1,383 @@
+<!--
+Cop Holster by PieRGud, improved by Yard1
+
+Default Configuration
+
+COMPONENT NUMBERS
+0 - HEAD
+1 - BERD
+2 - HAIR
+3 - UPPR
+4 - LOWR
+5 - HAND
+6 - FEET
+7 - TEEF
+8 - ACCS
+9 - TASK
+10 - DECL
+11 - JBIB
+-->
+<CopHolster EnableHolsterAnimations="true" EnableIntimidationMode="true" IntimidationModeToggleKey="RShiftKey" IntimidationModeToggleGamepad="DPadRight">
+	<WeaponSets>
+		<Item Animate="true">
+			<Name>Pistols</Name>
+			<Models>
+				<Model>WEAPON_PISTOL</Model>
+				<Model>WEAPON_COMBATPISTOL</Model>
+				<Model>WEAPON_APPISTOL</Model>
+				<Model>WEAPON_PISTOL50</Model>
+				<Model>WEAPON_HEAVYPISTOL</Model>
+				<Model>WEAPON_VINTAGEPISTOL</Model>
+				<Model>WEAPON_SNSPISTOL</Model>				
+			</Models>
+		</Item>
+		<Item Animate="false">
+			<Name>Stunguns</Name>
+			<Models>
+				<Model>WEAPON_STUNGUN</Model>		
+			</Models>
+		</Item>	
+		<Item Animate="false">
+			<Name>Nightsticks</Name>
+			<Models>
+				<Model>WEAPON_NIGHTSTICK</Model>		
+			</Models>
+		</Item>			
+	</WeaponSets>
+	<Peds>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>S_M_Y_COP_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>0</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>				
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>9</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>0</Unholstered>
+				</Item>				
+			</Weapons>
+		</Item>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>S_F_Y_COP_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>0</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>				
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>9</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>0</Unholstered>
+				</Item>				
+			</Weapons>
+		</Item>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>S_M_Y_SHERIFF_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>0</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>				
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>9</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>0</Unholstered>
+				</Item>				
+			</Weapons>
+		</Item>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>S_F_Y_SHERIFF_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>0</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>				
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>9</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>0</Unholstered>
+				</Item>				
+			</Weapons>
+		</Item>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>S_M_Y_HWAYCOP_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>0</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>				
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>9</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>0</Unholstered>
+				</Item>				
+			</Weapons>
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>S_M_M_SECURITY_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>0</Drawable>
+				</Item>
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>S_M_M_ARMOURED_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>8</Component>
+					<Drawable>0</Drawable>
+				</Item>		
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>S_M_M_ARMOURED_02</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>8</Component>
+					<Drawable>0</Drawable>
+				</Item>		
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>S_M_Y_RANGER_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>		
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>S_F_Y_RANGER_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>		
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>S_M_Y_PILOT_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>S_M_M_PILOT_02</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>9</Component>
+					<Drawable>1</Drawable>
+				</Item>
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>S_M_M_CIASEC_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>2</Component>
+					<Drawable>0</Drawable>
+				</Item>
+				<Item>
+					<Component>2</Component>
+					<Drawable>1</Drawable>
+				</Item>
+				<Item>
+					<Component>2</Component>
+					<Drawable>2</Drawable>
+				</Item>
+				<Item>
+					<Component>2</Component>
+					<Drawable>3</Drawable>
+				</Item>
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>2</Component>
+					<Holstered>0</Holstered>
+					<Unholstered>2</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>2</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>3</Unholstered>
+				</Item>
+			</Weapons>
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>PLAYER_ZERO</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>8</Component>
+					<Drawable>8</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>4</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>6</Drawable>
+				</Item>
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="false" FuncIntim="true">
+			<Model>PLAYER_TWO</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>8</Component>
+					<Drawable>7</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>2</Drawable>
+				</Item>
+				<Item>
+					<Component>9</Component>
+					<Drawable>3</Drawable>
+				</Item>
+			</FuncIntimMeshes>
+			<Weapons />
+		</Item>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>MP_F_FREEMODE_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>7</Component>
+					<Drawable>6</Drawable>
+				</Item>
+				<Item>
+					<Component>7</Component>
+					<Drawable>8</Drawable>
+				</Item>	
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>8</Holstered>
+					<Unholstered>2</Unholstered>
+				</Item>	
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>3</Unholstered>
+				</Item>	
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>6</Holstered>
+					<Unholstered>5</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>81</Holstered>
+					<Unholstered>82</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>29</Holstered>
+					<Unholstered>30</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>8</Component>
+					<Holstered>9</Holstered>
+					<Unholstered>10</Unholstered>
+				</Item>
+			</Weapons>
+		</Item>
+		<Item FuncHolster="true" FuncIntim="true">
+			<Model>MP_M_FREEMODE_01</Model>
+			<FuncIntimMeshes>
+				<Item>
+					<Component>7</Component>
+					<Drawable>6</Drawable>
+				</Item>
+				<Item>
+					<Component>7</Component>
+					<Drawable>8</Drawable>
+				</Item>		
+			</FuncIntimMeshes>
+			<Weapons>
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>8</Holstered>
+					<Unholstered>2</Unholstered>
+				</Item>	
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>1</Holstered>
+					<Unholstered>3</Unholstered>
+				</Item>	
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>6</Holstered>
+					<Unholstered>5</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>110</Holstered>
+					<Unholstered>111</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>119</Holstered>
+					<Unholstered>120</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>7</Component>
+					<Holstered>42</Holstered>
+					<Unholstered>43</Unholstered>
+				</Item>
+				<Item WeaponSet="Pistols">
+					<Component>8</Component>
+					<Holstered>16</Holstered>
+					<Unholstered>18</Unholstered>
+				</Item>
+			</Weapons>
+		</Item>
+	</Peds>
+</CopHolster>

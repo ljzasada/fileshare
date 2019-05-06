@@ -1,0 +1,159 @@
+<CitationCategories>
+    <Citation name="Public">
+		<Citation name="Animal Cruelty" fine="300"/>
+		<Citation name="Contempt of Cop" fine="200"/>
+        <Citation name="Disorderly Conduct" fine="800"/>
+        <Citation name="Dog without Leash" fine="100"/>
+        <Citation name="Illegal Campfire" fine="2000"/>
+        <Citation name="Illegal Camping" fine="1000"/>
+        <Citation name="Illegal Dumping" fine="2500"/>
+        <Citation name="Illegal Protesting" fine="1000"/>
+		<Citation name="Indecent Exposure" fine="1000"/>
+        <Citation name="Jaywalking" fine="500"/>
+        <Citation name="Littering" fine="1000"/>
+        <Citation name="Loitering" fine="100"/>
+		<Citation name="Mischief Under $5,000" fine="1000"/>
+		<Citation name="Mischief Over $5,000" fine="2500" arrestable="true"/>        
+        <Citation name="Public Intoxication" fine="1000"/>
+		<citation name="Public Indecency" fine="200"/>
+		<Citation name="Public Mischief" fine="3500"/>
+        <Citation name="Public Urination" fine="1000"/>
+		<Citation name="Reckless Endangerment" fine="300"/>
+		<Citation name="Theft Under $5,000" fine="1000"/>
+		<Citation name="Theft Over $5,000" fine="2500" arrestable="true"/>
+        <Citation name="Trespassing" fine="1000"/>
+		<Citation name="Marijuana">
+			<Citation name="25g or Less (1st Offence)" fine="100"/>
+			<Citation name="25g or Less (2nd Offence)" fine="200"/>
+			<Citation name="25g or Less (3rd Offence)" fine="250" arrestable="true"/>
+			<Citation name="More than 25g - 2oz" fine="500" arrestable="true"/>
+			<Citation name="More than 2oz - 8oz" fine="1000" arrestable="true"/> 
+			<Citation name="More than 8oz - 1lb" fine="5000" arrestable="true"/>
+			<Citation name="More than 1lb - 10lbs" fine="5000" arrestable="true"/>
+			<Citation name="More than 10lbs" fine="15000" arrestable="true"/>
+			<Citation name="In Public View" fine="250" arrestable="true"/>
+			<Citation name="Use of Marijuana under 21" fine="1500" arrestable="true"/>
+		</Citation>
+	</Citation>
+	<Citation name="Speeding">
+		<Citation name="Prudent Speeding" fine="100"/>
+		<Citation name="Speeding Under 15" fine="215"/>
+		<Citation name="Speeding in a DCZ Under 15" fine="430"/>
+		<Citation name="Speeding Between 16-25 Over" fine="360"/>
+		<Citation name="Speeding in a DCZ 16-25 Over" fine="720"/>
+		<Citation name="Speeding Over 26" fine="480" arrestable="true"/>
+		<Citation name="Speeding in a DCZ 26 Over" fine="960" arrestable="true"/>
+		<Citation name="Speeding 100+" fine="1000" arrestable="true"/>
+		<Citation name="Speeding in a DCZ 100+" fine="2000" arrestable="true"/>
+	</Citation>
+	<Citation name="Operation">
+		<Citation name="At Fault in an Accident" fine="300"/>	
+		<Citation name="Blocking Right of Way" fine="175"/>
+		<Citation name="Careless Driving" fine="200"/>
+		<Citation name="Crossing a Double Yellow" fine="250"/>
+        <Citation name="Crossing a Center Divider" fine="150"/>
+        <Citation name="Crossing a Median" fine="150"/>
+        <Citation name="Crossing a Gore" fine="150"/>
+		<Citation name="Distracted Driving" fine="500"/>
+		<Citation name="Driving Wrong Way" fine="400" arrestable="true"/>
+		<Citation name="Driving without Helmet" fine="180"/>
+        <Citation name="Driving in a Bus Lane" fine="180"/>
+		<Citation name="Driving on the Shoulder" fine="150"/>
+		<Citation name="Driving with High Beams with Oncoming traffic" fine="90"/> 
+		<Citation name="Driving Under the Influence" fine="1500" arrestable="true"/>
+		<Citation name="Earplugs Covering Both Ears" fine="180"/>
+		<Citation name="Following too Closely" fine="300"/>		
+		<Citation name="Failure to Yield" fine="300"/>        
+        <Citation name="Failure to Yield for a Pedestrian" fine="300"/>
+		<Citation name="Failure to Yield to an Emergency Vehicle" fine="600"/>
+		<Citation name="Failure to Maintain lane" fine="300"/>
+		<Citation name="Failure to Signal" fine="300"/>
+		<Citation name="Failure to Stop for a School Bus" fine="1000"/>
+		<Citation name="Failure to Stop" fine="300"/>
+		<Citation name="Failure to Stop at a Traffic Signal" fine="500"/>
+		<Citation name="Failure to Stop at a Flashing Rail Crossing" fine=" 100"/>
+		<Citation name="Improper Lane Change" fine="100"/>
+		<Citation name="Improper Passing" fine="150"/>
+		<Citation name="Improper Turn" fine="250"/>
+		<Citation name="Improper Use of a Carpool Lane" fine="100"/>
+		<Citation name="Leaving the Scene of an Accident" fine="2500" arrestable="true"/>
+        <Citation name="Littering" fine="500"/>
+		<Citation name="Operating a Bicycle on a Highway" fine="300"/>
+		<Citation name="Reckless Driving" fine="1000" arrestable="true"/>
+		<Citation name="Stopping on Rail Crossing" fine="200"/>
+		<Citation name="Street Racing" fine="3000" arrestable="true"/>
+        <Citation name="Train Track Trespassing" fine="6000"/>
+		<Citation name="Impeding Traffic" fine="150"/>
+        <Citation name="Unsafe Operation on Roadway" fine="250"/>
+		<Citation name="Use of Mobile Phone While Driving" fine="500"/>
+		<Citation name="Violation of Right of Way" fine="150"/>		    
+	</Citation>
+    <Citation name="Parking Violations">
+        <Citation name="Blocking Access To Disabled Spot" fine="495"/>
+		<Citation name="Double-Parking" fine="85"/>
+		<Citation name="Expired Parking Meter" fine="50"/>
+		<Citation name="Failure to Display Parking Permit" fine="275"/>
+        <Citation name="Parked On Boulevard" fine="75"/>
+        <Citation name="Parked in Opposite Direction of Traffic" fine="85"/>
+        <Citation name="Parked on Designated Disabled Space" fine="495"/>
+        <Citation name="Parking in loading Zone" fine="550"/>
+        <Citation name="Parking in front of Fire Hydrants" fine="150"/>
+        <Citation name="Parking Blocking Excavation" fine="100"/>
+        <Citation name="Parking Blocking a Driveway" fine="100"/>
+        <Citation name="Parking on an Intersection" fine="100"/>
+        <Citation name="Parking Near Sidewalk Access Ramp" fine="495"/>
+        <Citation name="Parking No-Parking Zone" fine="750"/>
+        <Citation name="Parking On or Blocking Crosswalk" fine="100"/>
+        <Citation name="Parking Posted Fire Lane" fine="150"/>
+        <Citation name="Parking Upon Bridge" fine="85"/>
+        <Citation name="Parking Upon or Near Railroad Track" fine="100"/>
+        <Citation name="Parking in Bike Lane" fine="75"/>
+        <Citation name="Parking in Tunnel" fine="85"/>
+        <Citation name="Parking on Left on One-Way Street" fine="85"/>
+        <Citation name="Parking on Sidewalk" fine="90"/>
+    </Citation>
+	<Citation name="Equipment">
+		<Citation name="Broken Tail Light (Right)" fine="250"/>
+        <Citation name="Broken Tail Light (Left)" fine="250"/>
+        <Citation name="Broken Headlight (Right)" fine="250"/>
+        <Citation name="Broken Headlight (Left)" fine="250"/>
+        <Citation name="Broken Windshield" fine="500"/>
+        <Citation name="Broken Windows" fine="250"/>
+        <Citation name="Broken Engine" fine="250"/>
+        <Citation name="Failure to Display License Plates" fine="300"/>
+        <Citation name="Failure to Secure a Load" fine="175"/>
+		<Citation name="Failure to Maintain Safety Devices" fine="300"/>
+		<Citation name="Illegal Window Tint" fine="180"/>
+		<Citation name="Lighting Violation" fine="100"/>
+		<Citation name="Neon / Underglow Lighting" fine="450"/>
+		<Citation name="Obstruction of View" fine="40"/>
+		<Citation name="Seat Belt Violation" fine="350"/>
+		<Citation name="Unroadworthy Vehicle" fine="1000"/>		
+	</Citation>
+	<Citation name="Documentation">
+		<Citation name="Commercial Truck Logs">
+			<Citation name="Failure to Maintain Log Book" fine="1000"/>
+			<Citation name="Outdated Driver Log" fine="1000"/>
+			<Citation name="Failure to Keep Existing Driver Log" fine="1000"/>
+			<Citation name="Possession of Fake Driver Log" fine="2000"/>
+			<Citation name="Failure to Keep Driving Log Within 14 Days" fine="1500"/>
+			<Citation name="Violation of the 13 Hour Rule" fine="2000"/>
+			<Citation name="Using an on Board Recorder Without Handwritten Logs" fine="2000"/>
+			<Citation name="Ignoring an Out of Service Order" fine="2000"/>
+		</Citation>
+        <Citation name="Driving without License" fine="1000" arrestable="true"/>
+        <Citation name="Driving without Registration" fine="500"/>
+        <Citation name="Driving without Insurance" fine="1800"/>
+		<Citation name="Driving while Suspended" fine="600" arrestable="true"/>
+		<Citation name="Expired Insurance" fine="250"/>
+		<Citation name="Expired Registration" fine="250"/>
+		<Citation name="Expired Drivers License" fine="250"/>
+		<Citation name="Expired Vehicle Tag" fine="250"/>
+		<Citation name="Failure to Present Insurance" fine="880"/>		
+		<Citation name="Failure to Present Registration" fine="255"/>
+		<Citation name="Failure to Present Lighting Permit" fine="100"/>
+		<Citation name="Fishing Without a License" fine="200"/>		
+		<Citation name="Hunting Without License" fine="200"/>		
+
+	</Citation>
+</CitationCategories>

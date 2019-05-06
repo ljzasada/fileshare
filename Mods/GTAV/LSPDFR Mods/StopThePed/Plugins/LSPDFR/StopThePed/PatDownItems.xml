@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatDownItems>
+    <RedItems>
+       <Item>a handgun</Item>
+       <Item>a small revolver</Item>
+       <Item>a grenade</Item>
+       <Item>a baggie of marijuana</Item>
+       <Item>small baggie of cocaine</Item>
+       <Item>a baggie of meth</Item>
+       <Item>a baggie of heroine</Item>
+       <Item>fentanyl</Item>
+       <Item>illegal prescription pills</Item>
+       <Item>PCP</Item>
+    </RedItems>
+    <YellowItems>
+       <Item>a used needle</Item>
+       <Item>pocket knife</Item>
+       <Item>wire cutter</Item>
+       <Item>a burnt meth pipe</Item>
+       <Item>knuckledusters</Item>
+       <Item>pepper spray</Item>
+       <Item>rusty spoon</Item>
+       <Item>a lockpick</Item>
+       <Item>clown mask</Item>
+       <Item>terrorist mask</Item>
+       <Item>police stick</Item>
+       <Item>screwdriver</Item>
+    </YellowItems>
+    <GreenItems>
+       <Item>wallet</Item>
+       <Item>keys</Item>
+       <Item>cell phone</Item>
+       <Item>pocket camera</Item>
+       <Item>playboy magazine</Item>
+       <Item>a pair of panties</Item>
+       <Item>dildo</Item>
+       <Item>a vibrator</Item>
+       <Item>a postcard</Item>
+       <Item>a citation ticket</Item>
+       <Item>a cigar</Item>
+       <Item>a used condom</Item>
+       <Item>a condom</Item>
+       <Item>flashlight</Item>
+       <Item>car key fob</Item>
+       <Item>a binocular</Item>
+       <Item>a pack of cigarettes</Item>
+       <Item>smart phone</Item>
+       <Item>a ballpoint</Item>
+       <Item>a pencil</Item>
+       <Item>zippo lighter</Item>
+       <Item>matches</Item>
+       <Item>a plane ticket</Item>
+       <Item>sunglasses</Item>
+       <Item>a lolypop</Item>
+       <Item>packing tape</Item>
+    </GreenItems>
+</PatDownItems>

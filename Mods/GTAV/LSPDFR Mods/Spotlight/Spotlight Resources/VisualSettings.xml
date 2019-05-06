@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualSettings>
+  <Default>
+    <Color R="80" G="80" B="80" />
+    <CastShadows>true</CastShadows>
+    <OuterAngle>8.25</OuterAngle>
+    <InnerAngle>5</InnerAngle>
+    <Intensity>30</Intensity>
+    <Range>45</Range>
+    <Falloff>45</Falloff>
+    <VolumeIntensity>0.06</VolumeIntensity>
+    <VolumeSize>0.175</VolumeSize>
+    <CoronaIntensity>20</CoronaIntensity>
+    <CoronaSize>1.5</CoronaSize>
+    <Volume>true</Volume>
+    <Corona>true</Corona>
+    <Specular>true</Specular>
+    <MovementSpeed>1</MovementSpeed>
+  </Default>
+  <Helicopter>
+    <Color R="80" G="80" B="80" />
+    <CastShadows>true</CastShadows>
+    <OuterAngle>9</OuterAngle>
+    <InnerAngle>6</InnerAngle>
+    <Intensity>35</Intensity>
+    <Range>230</Range>
+    <Falloff>50</Falloff>
+    <VolumeIntensity>0.05</VolumeIntensity>
+    <VolumeSize>0.125</VolumeSize>
+    <CoronaIntensity>20</CoronaIntensity>
+    <CoronaSize>1.5</CoronaSize>
+    <Volume>true</Volume>
+    <Corona>true</Corona>
+    <Specular>true</Specular>
+    <MovementSpeed>1</MovementSpeed>
+  </Helicopter>
+  <Boat>
+    <Color R="80" G="80" B="80" />
+    <CastShadows>true</CastShadows>
+    <OuterAngle>8.5</OuterAngle>
+    <InnerAngle>5.5</InnerAngle>
+    <Intensity>30</Intensity>
+    <Range>80</Range>
+    <Falloff>45</Falloff>
+    <VolumeIntensity>0.05</VolumeIntensity>
+    <VolumeSize>0.125</VolumeSize>
+    <CoronaIntensity>20</CoronaIntensity>
+    <CoronaSize>1.5</CoronaSize>
+    <Volume>true</Volume>
+    <Corona>true</Corona>
+    <Specular>true</Specular>
+    <MovementSpeed>1</MovementSpeed>
+  </Boat>
+</VisualSettings>

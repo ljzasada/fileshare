@@ -1,0 +1,36 @@
+6.15.0.0
+Added compatibility for LSPDFR 0.4 (thanks PeterU and RiverGrande for the contributions!)
+Exception catching in motorcyclist without a helmet event until the crash can be narrowed down (thanks RiverGrande!)
+Added licence plate randomisation in all callouts (thanks PeterU!) and ambient events
+The default Mimic keybinding has been changed to Ctrl R (from Ctrl Q) to avoid an LSPDFR keybinding conflict.
+INI has been updated with the default Mimic key.
+
+6.14.3.0
+Fixed an issue where the NoLightsAtDark ambient event chance in the INI was not respected.
+Some code cleanup.
+Open sourced at https://github.com/Albo1125/Traffic-Policer
+Updated licence.
+Removed obfuscation.
+
+6.14.1.2
+Fixed an occasional crash that occurred when ambient events were created.
+Restructured ambient event handling to improve performance.
+Restructured speed checker handling to improve performance.
+Restructured various elements of the main loop to improve performance.
+Rewritten all code using RageNativeUI to use the non-obsolete methods.
+Removed the (non-working) 'grab key' feature.
+
+6.14.0.1
+Updated for Albo1125.Common 6.6.0.0
+Improved performance by changing all native function calls.
+Updated for GTA5 1.0.1290.1 & RPH 0.61 & RAGENativeUI 1.6.3.0. Works with RPH 0.51 or higher.
+Cleaned up various code.
+Added speed/laser gun functionality.
+With your chosen speed gun equipped, aim down sights and 'shoot' at a vehicle to read its speed.
+This works inside and outside of vehicles.
+Updated documentation.
+
+INI Update: Add this to the [Speed Checker Settings] section in the INI (or just replace yours with the default)
+//This determines which WeaponAsset is used for the speedgun. List: https://www.se7ensins.com/forums/threads/weapon-and-explosion-hashes-list.1045035/
+//Attacking with this weapon is not possible, so choose wisely.
+SpeedgunWeaponAsset=WEAPON_MARKSMANPISTOL

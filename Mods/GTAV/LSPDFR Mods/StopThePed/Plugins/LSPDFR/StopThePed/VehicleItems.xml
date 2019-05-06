@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehicleItems>
+    <RedItems>
+       <Item>a handgun</Item>
+       <Item>a large bong</Item>
+       <Item>a briefcase full of heroin</Item>
+       <Item>a briefcase full of methamphetamine</Item>
+       <Item>a briefcase full of cocaine</Item>
+       <Item>several bags of marijuana</Item>
+       <Item>a bag of shrooms</Item>
+       <Item>several pounds of methamphetamine</Item>
+       <Item>several pounds of heroine</Item>
+       <Item>several pounds of cocaine</Item>
+       <Item>a nunchucks</Item>
+       <Item>a silencer</Item>
+       <Item>an IED</Item>
+       <Item>a couple of grenades</Item>
+       <Item>an AR-15 rifle</Item>
+       <Item>a sniper rifle</Item>
+       <Item>a shotgun</Item>
+    </RedItems>
+    <YellowItems>
+       <Item>wire cutters</Item>
+       <Item>several cell phones</Item>
+       <Item>several cans of spray paint</Item>
+       <Item>glass-cutting equipment</Item>
+       <Item>several rounds of ammunition</Item>
+       <Item>a bag of fertilizer</Item>
+       <Item>a duffel bag full of money</Item>
+       <Item>a briefcase full of $100 bills</Item>
+       <Item>a clown mask</Item>
+       <Item>a clown outfit</Item>
+       <Item>a human skull</Item>
+       <Item>a large bloodstain</Item>
+       <Item>a brown bag stuffed with money</Item>
+       <Item>a bottle of percocet</Item>
+       <Item>a bottle of morphine</Item>
+       <Item>a crossbow</Item>
+       <Item>a hatchet</Item>
+       <Item>a hammer</Item>
+       <Item>a kitchen knife</Item>
+       <Item>a chainsaw</Item>
+       <Item>a large axe</Item>
+       <Item>a crowbar</Item>
+       <Item>a katana</Item>
+       <Item>a samurai</Item>
+       <Item>knuckledusters</Item>
+       <Item>a baseball bat</Item>
+       <Item>a machete</Item>
+       <Item>a can of pepper spray</Item>
+       <Item>a tazer</Item>
+       <Item>a police nightstick</Item>
+    </YellowItems>
+    <GreenItems>
+       <Item>a flashlight</Item>
+       <Item>a beach towel</Item>
+       <Item>a soccer ball</Item>
+       <Item>jerry can</Item>
+       <Item>prosthetic arm</Item>
+       <Item>a bottle of bleach</Item>
+       <Item>bags of groceries</Item>
+       <Item>a bowling ball</Item>
+       <Item>a tennis racquet</Item>
+       <Item>a badminton racquete</Item>
+       <Item>a violin</Item>
+       <Item>a basketball</Item>
+       <Item>an NFL football</Item>
+       <Item>a soccer ball</Item>
+       <Item>an urn of ashes</Item>
+       <Item>a pair of shoes</Item>
+       <Item>a pair of sandals</Item>
+       <Item>a shovel</Item>
+       <Item>a macbook pro laptop</Item>
+       <Item>a locked briefcase</Item>
+       <Item>a pile of dirty clothes</Item>
+       <Item>a motorbike helmet</Item>
+       <Item>a bag of oranges</Item>
+       <Item>a toaster</Item>
+       <Item>a bottle of hand sanitizer</Item>
+       <Item>a set of jumper cables</Item>
+       <Item>a halloween costume</Item>
+       <Item>a cowboy hat</Item>
+       <Item>a fedora</Item>
+       <Item>a bag of apples</Item>
+       <Item>a bottle of diet cola</Item>
+    </GreenItems>
+</VehicleItems>

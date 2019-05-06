@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VocalDispatch>
+    <Phrases>      
+        <Phrase Event="PoliceSmartRadio.PlateCheck" Priority="5">
+            <Word PreferredText="requesting" AcceptedAlternates="need,request,roll" />            
+            <Word PreferredText="plate"/>
+			<Word PreferredText="check"/>
+        </Phrase> 
+		<Phrase Event="PoliceSmartRadio.RequestPIT" Priority="5">
+            <Word PreferredText="requesting" AcceptedAlternates="need,request" />            
+            <Word PreferredText="pit"/>
+        </Phrase>
+		<Phrase Event="PoliceSmartRadio.Panic" Priority="5">
+            <Word PreferredText="panic"/>            
+        </Phrase>  	
+		<Phrase Event="PoliceSmartRadio.PedCheck" Priority="5">
+            <Word PreferredText="requesting" AcceptedAlternates="need,request,roll" />            
+            <Word PreferredText="ped" AcceptedAlternates="person"/>	
+			<Word PreferredText="check" AcceptedAlternates="record"/>	
+        </Phrase>
+		<Phrase Event="PoliceSmartRadio.EndCall" Priority="5">
+            <Word PreferredText="end" AcceptedAlternates="stop,clear,cancel" />            
+            <Word PreferredText="call"/>	
+        </Phrase> 
+		<Phrase Event="PoliceSmartRadio.EndCall" Priority="5">
+            <Word PreferredText="code"/>            
+            <Word PreferredText="four"/>	
+        </Phrase>		
+    </Phrases>    
+</VocalDispatch>
